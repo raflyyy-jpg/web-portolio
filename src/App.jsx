@@ -1135,7 +1135,7 @@ function CustomSpotifyPlayer() {
               style={{
                 fontSize: '0.62rem',
                 color: '#60a5fa',
-                margin: 0,
+                margin: '10px',
                 marginBottom: '2px',
                 fontFamily: "'JetBrains Mono', monospace",
                 letterSpacing: '0.1em',
@@ -1150,7 +1150,7 @@ function CustomSpotifyPlayer() {
                 fontSize: '0.95rem',
                 fontWeight: '800',
                 color: '#fff',
-                margin: 0,
+                margin: '10px',
                 marginBottom: '2px',
                 whiteSpace: 'nowrap',
                 overflow: 'hidden',
